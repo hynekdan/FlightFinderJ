@@ -1,0 +1,521 @@
+0;AAA;Anaa Airport;Anaa, Tuamotus, French Polynesia
+1;AAB;Arrabury Airport;Arrabury, Queensland, Australia
+2;AAC;El Arish International Airport;El Arish, Egypt
+3;AAE;Rabah Bitat Airport (Les Salines Airport);Annaba, Algeria
+4;AAF;Apalachicola Regional Airport;Apalachicola, Florida, United States
+5;AAG;Arapoti Airport;Arapoti, Paraná, Brazil
+6;AAH;Merzbrück Airport;Aachen, North Rhine-Westphalia, Germany
+7;AAI;Arraias Airport;Arraias, Tocantins, Brazil
+8;AAJ;Cayana Airstrip;Awaradam, Suriname
+9;AAK;Aranuka Airport;Aranuka, Kiribati
+10;AAL;Aalborg Airport;Aalborg, Denmark
+11;AAM;Mala Mala Airport;Mala Mala, South Africa
+12;AAN;Al Ain International Airport;Al Ain, United Arab Emirates
+13;AAO;Anaco Airport;Anaco, Venezuela
+14;AAQ;Anapa Airport;Anapa, Krasnodar Krai, Russia
+15;AAR;Aarhus Airport;Aarhus, Denmark
+16;AAS;Apalapsili Airport;Apalapsili, Indonesia
+17;AAT;Altay Airport;Altay, Xinjiang, China
+18;AAU;Asau Airport;Asau, Savai'i Island, Samoa
+19;AAV;Allah Valley Airport;Surallah, Philippines
+20;AAX;Araxá Airport;Araxá, Minas Gerais, Brazil
+21;AAY;Al Ghaydah Airport;Al Ghaydah, Yemen
+22;AAZ;Quetzaltenango Airport;Quetzaltenango, Guatemala
+23;ABA;Abakan International Airport;Abakan, Republic of Khakassia, Russia
+24;ABB;Asaba International Airport;Asaba, Nigeria
+25;ABC;Albacete Airport;Albacete, Castilla-La Mancha, Spain
+26;ABD;Abadan International Airport;Abadan, Iran
+27;ABE;Lehigh Valley International Airport;Allentown, Pennsylvania, United States
+28;ABF;Abaiang Atoll Airport;Abaiang, Kiribati
+29;ABG;Abingdon Airport;Abingdon, Queensland, Australia
+30;ABH;Alpha Airport;Alpha, Queensland, Australia
+31;ABI;Abilene Regional Airport;Abilene, Texas, United States
+32;ABJ;Port Bouet Airport (Felix Houphouet Boigny Int'l);Abidjan, Côte d'Ivoire
+33;ABK;Kabri Dar Airport;Kebri Dahar, Ethiopia
+34;ABL;Ambler Airport (FAA: AFM);Ambler, Alaska, United States
+35;ABM;Northern Peninsula Airport;Bamaga, Queensland, Australia
+36;ABN;Albina Airstrip;Albina, Suriname
+37;ABO;Aboisso Airport;Aboisso, Côte d'Ivoire
+38;ABP;Atkamba Airport;Atkamba, Papua New Guinea
+39;ABQ;Albuquerque International Sunport;Albuquerque, New Mexico, United States
+40;ABR;Aberdeen Regional Airport;Aberdeen, South Dakota, United States
+41;ABS;Abu Simbel Airport;Abu Simbel, Egypt
+42;ABT;Al-Baha Domestic Airport;Al-Baha, Saudi Arabia
+43;ABU;Haliwen Airport;Atambua, Indonesia
+44;ABV;Nnamdi Azikiwe International Airport;Abuja, Nigeria
+45;ABW;Abau Airport;Abau, Papua New Guinea
+46;ABX;Albury Airport;Albury, New South Wales, Australia
+47;ABY;Southwest Georgia Regional Airport;Albany, Georgia, United States
+48;ABZ;Aberdeen Airport;Aberdeen, Scotland, United Kingdom
+49;ACA;General Juan N. Álvarez International Airport;Acapulco, Guerrero, Mexico
+50;ACB;Antrim County Airport;Bellaire, Michigan, United States
+51;ACC;Kotoka International Airport;Accra, Ghana
+52;ACD;Alcides Fernández Airport;Acandí, Colombia
+53;ACE;Lanzarote Airport;Lanzarote, Canary Islands, Spain
+54;ACH;St. Gallen–Altenrhein Airport;Altenrhein, Switzerland
+55;ACI;Alderney Airport;Alderney, Channel Islands, United Kingdom
+56;ACJ;Anuradhapura Airport;Anuradhapura, Sri Lanka
+57;ACK;Nantucket Memorial Airport;Nantucket, Massachusetts, United States
+58;ACL;Aguaclara Airport;Aguaclara, Colombia
+59;ACM;Arica Airport;Arica, Colombia
+60;ACN;Ciudad Acu?a International Airport;Ciudad Acu?a, Coahuila, Mexico
+61;ACP;Sahand Airport;Maragheh, Iran
+62;ACR;Araracuara Airport;Araracuara, Colombia
+63;ACS;Achinsk Airport;Achinsk, Krasnoyarsk Krai, Russia
+64;ACT;Waco Regional Airport;Waco, Texas, United States
+65;ACU;Achutupo Airport;Achutupo, Panama
+66;ACV;Arcata-Eureka Airport;Eureka / Arcata, California, United States
+67;ACX;Xingyi Wanfenglin Airport;Xingyi, Guizhou, China
+68;ACY;Atlantic City International Airport;Atlantic City, New Jersey, United States
+69;ACZ;Zabol Airport;Zabol, Iran
+70;ADA;Adana ªakirpaºa Airport;Adana, Turkey
+71;ADB;Adnan Menderes Airport;?zmir, Turkey
+72;ADC;Andakombe Airport;Andakombe, Papua New Guinea
+73;ADD;Bole International Airport;Addis Ababa, Ethiopia
+74;ADE;Aden International Airport;Aden, Yemen
+75;ADF;Ad?yaman Airport;Ad?yaman, Turkey
+76;ADG;Lenawee County Airport;Adrian, Michigan, United States
+77;ADH;Aldan Airport;Aldan, Yakutia, Russia
+78;ADI;Arandis Airport;Arandis, Namibia
+79;ADJ;Amman Civil Airport (Marka International Airport);Amman, Jordan
+80;ADK;Adak Airport;Adak Island, Alaska, United States
+81;ADL;Adelaide Airport;Adelaide, South Australia, Australia
+82;ADM;Ardmore Municipal Airport;Ardmore, Oklahoma, United States
+83;ADN;Andes Airport;Andes, Colombia
+84;ADO;Andamooka Airport;Andamooka, South Australia, Australia
+85;ADP;Ampara Airport;Ampara, Sri Lanka
+86;ADQ;Kodiak Airport;Kodiak, Alaska, United States
+87;ADR;Robert F. Swinnie Airport (FAA: PHH);Andrews, South Carolina, United States
+88;ADS;Addison Airport;Dallas, Texas, United States
+89;ADT;Ada Municipal Airport (FAA: ADH);Ada, Oklahoma, United States
+90;ADU;Ardabil Airport;Ardabil, Iran
+91;ADV;Ed Daein Airport;Ed Daein, Sudan
+92;ADW;Andrews Field (Andrews Air Force Base);Camp Springs, Maryland, United States
+93;ADX;RAF Leuchars;St Andrews, Scotland, United Kingdom
+94;ADY;Alldays Airport;Alldays, South Africa
+95;ADZ;Gustavo Rojas Pinilla International Airport;San Andres Island, Colombia
+96;AEA;Abemama Atoll Airport;Abemama Atoll, Kiribati
+97;AEB;Baise Bama Airport;Baise, Guangxi, China
+98;AEE;Adareil Airport[1];Adareil, South Sudan
+99;AEG;Aek Godang Airport;Padang Sidempuan, Indonesia
+100;AEH;Abéché Airport;Abéché, Chad
+101;AEK;Aseki Airport;Aseki, Papua New Guinea
+102;AEL;Albert Lea Municipal Airport;Albert Lea, Minnesota, United States
+103;AEO;Aioun el Atrouss Airport;Aioun el Atrouss, Mauritania
+104;AEP;Jorge Newbery Airpark;Buenos Aires, Argentina
+105;AER;Sochi International Airport;Sochi, Krasnodar Krai, Russia
+106;AES;?lesund Airport, Vigra;?lesund, Norway
+107;AET;Allakaket Airport (FAA: 6A8);Allakaket, Alaska, United States
+108;AEU;Abu Musa Airport[1];Abu Musa Island, Iran
+109;AEX;Alexandria International Airport;Alexandria, Louisiana, United States
+110;AEY;Akureyri Airport;Akureyri, Iceland
+111;AFA;San Rafael Airport;San Rafael, Mendoza, Argentina
+112;AFD;Port Alfred Airport;Port Alfred, South Africa
+113;AFF;United States Air Force Academy Airfield;Colorado Springs, Colorado, United States
+114;AFI;Amalfi Airport;Amalfi, Colombia
+115;AFK;Kondavattavan Tank Seaplane Base[1];Ampara, Sri Lanka
+116;AFL;Alta Floresta Airport;Alta Floresta, Mato Grosso, Brazil
+117;AFN;Jaffrey Airport–Silver Ranch;Jaffrey, New Hampshire, United States
+118;AFO;Afton Municipal Airport;Afton, Wyoming, United States
+119;AFR;Afore Airport;Afore, Papua New Guinea
+120;AFS;Zarafshan Airport;Zarafshan, Uzbekistan
+121;AFT;Afutara Airport;Afutara, Malaita, Solomon Islands
+122;AFW;Fort Worth Alliance Airport;Fort Worth, Texas, United States
+123;AFY;Afyon Airport;Afyon, Turkey
+124;AFZ;Sabzevar Airport[1];Sabzevar, Iran
+125;AGA;Agadir–Al Massira Airport;Agadir, Morocco
+126;AGB;Augsburg Airport;Augsburg, Bavaria, Germany
+127;AGC;Allegheny County Airport;Pittsburgh, Pennsylvania, United States
+128;AGD;Anggi Airport;Anggi, Indonesia
+129;AGE;Wangerooge Airport;Wangerooge, Lower Saxony, Germany
+130;AGF;Agen La Garenne Airport;Agen, Aquitaine, France
+131;AGG;Angoram Airport;Angoram, Papua New Guinea
+132;AGH;Ängelholm–Helsingborg Airport (former ICAO: ESDB);Ängelholm, Sweden
+133;AGI;Wageningen Airstrip;Wageningen, Suriname
+134;AGJ;Aguni Airport;Aguni, Okinawa, Japan
+135;AGK;Kagua Airport;Kagua, Papua New Guinea
+136;AGL;Wanigela Airport;Wanigela, Papua New Guinea
+137;AGN;Angoon Seaplane Base;Angoon, Alaska, United States
+138;AGO;Magnolia Municipal Airport;Magnolia, Arkansas, United States
+139;AGP;Málaga Airport;Málaga, Andalusia, Spain
+140;AGQ;Agrinion Airport;Agrinion, Greece
+141;AGR;Agra Airport;Agra, Uttar Pradesh, India
+142;AGS;Augusta Regional Airport at Bush Field;Augusta, Georgia, United States
+143;AGT;Guaraní International Airport;Ciudad del Este, Paraguay
+144;AGU;Lic. Jesús Terán Peredo International Airport;Aguascalientes, Aguascalientes, Mexico
+145;AGV;Oswaldo Guevara Mujica Airport;Acarigua, Venezuela
+146;AGW;Agnew Airport;Agnew, Queensland, Australia
+147;AGX;Agatti Aerodrome;Agatti Island, Lakshadweep, India
+148;AGZ;Aggeneys Airport;Aggeneys, South Africa
+149;AHB;Abha Regional Airport;Abha, Saudi Arabia
+150;AHC;Amedee Army Airfield;Herlong, California, United States
+151;AHD;Ardmore Downtown Executive Airport (FAA: 1F0);Ardmore, Oklahoma, United States
+152;AHE;Ahe Airport;Ahe, Tuamotus, French Polynesia
+153;AHF;Arapahoe Municipal Airport (FAA: 37V);Arapahoe, Nebraska, United States
+154;AHH;Amery Municipal Airport;Amery, Wisconsin, United States
+155;AHI;Amahai Airport;Amahai, Indonesia
+156;AHJ;Hongyuan Airport;Hongyuan, Sichuan, China
+157;AHL;Aishalton Airstrip;Aishalton, Guyana
+158;AHM;Ashland Municipal Airport[1];Ashland, Oregon, United States
+159;AHN;Athens Ben Epps Airport;Athens, Georgia, United States
+160;AHO;Alghero-Fertilia Airport;Alghero, Sardinia, Italy
+161;AHS;Ahuas Airport;Ahuas, Honduras
+162;AHU;Cherif Al Idrissi Airport;Al Hoceima, Morocco
+163;AHW;Saih Rawl Airport[1];Saih Rawl, Oman
+164;AHY;Ambatolahy Airport;Ambatolahy, Madagascar
+165;AHZ;Alpe d'Huez Airport;Alpe d'Huez, Rhône-Alpes, France
+166;AIA;Alliance Municipal Airport;Alliance, Nebraska, United States
+167;AIC;Ailinglaplap Airok Airport;Airok, Ailinglaplap Atoll, Marshall Islands
+168;AID;Anderson Municipal Airport (Darlington Field);Anderson, Indiana, United States
+169;AIE;Aiome Airport;Aiome, Papua New Guinea
+170;AIF;Assis Airport (former ICAO: SBAS);Assis, S?o Paulo, Brazil
+171;AIG;Yalinga Airport;Yalinga, Central African Republic
+172;AIH;Aiambak Airport;Aiambak, Papua New Guinea
+173;AII;Ali-Sabieh Airport;Ali Sabieh, Djibouti
+174;AIK;Aiken Municipal Airport;Aiken, South Carolina, United States
+175;AIL;Ailigandí Airport;Ailigandí, Panama
+176;AIM;Ailuk Airport;Ailuk Atoll, Marshall Islands
+177;AIN;Wainwright Airport (FAA: AWI);Fort Wainwright, Alaska, United States
+178;AIO;Atlantic Municipal Airport;Atlantic, Iowa, United States
+179;AIR;Aripuan? Airport;Aripuan?, Mato Grosso, Brazil
+180;AIS;Arorae Island Airport;Arorae Island, Kiribati
+181;AIT;Aitutaki Airport;Aitutaki, Cook Islands
+182;AIU;Atiu Island Airport;Atiu Island, Cook Islands
+183;AIV;George Downer Airport;Aliceville, Alabama, United States
+184;AIW;Ai-Ais Airport;Ai-Ais, Namibia
+185;AIY;Atlantic City Municipal Airport (Bader Field) (closed 2006);Atlantic City, New Jersey, United States
+186;AIZ;Lee C. Fine Memorial Airport;Lake Ozark, Missouri, United States
+187;AJA;Ajaccio Napoleon Bonaparte Airport;Ajaccio, Corsica, France
+188;AJF;Al-Jawf Domestic Airport;Al-Jawf, Saudi Arabia
+189;AJI;A?r? Airport;A?r?, Turkey
+190;AJJ;Akjoujt Airport;Akjoujt, Mauritania
+191;AJK;Arak Airport[1];Arak, Iran
+192;AJL;Lengpui Airport;Aizawl, Mizoram, India
+193;AJN;Ouani Airport;Anjouan, Comoros
+194;AJR;Arvidsjaur Airport;Arvidsjaur, Sweden
+195;AJS;Punta Abreojos Airstrip;Punta Abreojos, Baja California Sur, Mexico
+196;AJU;Santa Maria Airport;Aracaju, Sergipe, Brazil
+197;AJY;Mano Dayak International Airport;Agadez, Niger
+198;AKA;Ankang Wulipu Airport;Ankang, Shaanxi, China
+199;AKB;Atka Airport (FAA: AKA);Atka, Alaska, United States
+200;AKC;Akron Fulton International Airport (FAA: AKR);Akron, Ohio, United States
+201;AKD;Akola Airport;Akola, Maharashtra, India
+202;AKE;Akieni Airport;Akiéni, Gabon
+203;AKF;Kufra Airport;Kufra, Libya
+204;AKG;Anguganak Airport;Anguganak, Papua New Guinea
+205;AKH;Prince Sultan Air Base;Al-Kharj, Saudi Arabia
+206;AKI;Akiak Airport;Akiak, Alaska, United States
+207;AKJ;Asahikawa Airport;Asahikawa, Hokkaido, Japan
+208;AKK;Akhiok Airport;Akhiok, Alaska, United States
+209;AKL;Auckland Airport;Auckland, New Zealand
+210;AKM;Zakouma Airport;Zakouma National Park, Chad
+211;AKN;King Salmon Airport;King Salmon, Alaska, United States
+212;AKO;Colorado Plains Regional Airport;Akron, Colorado, United States
+213;AKP;Anaktuvuk Pass Airport;Anaktuvuk Pass, Alaska, United States
+214;AKQ;Gunung Batin Airport;Astraksetra, Indonesia
+215;AKR;Akure Airport;Akure, Nigeria
+216;AKS;Auki Gwaunaru'u Airport;Auki, Malaita, Solomon Islands
+217;AKT;RAF Akrotiri;Akrotiri, Cyprus
+218;AKU;Aksu Airport;Aksu, Xinjiang, China
+219;AKV;Akulivik Airport;Akulivik, Quebec, Canada
+220;AKW;Aghajari Airport[1];Aghajari, Iran
+221;AKX;Aktobe Airport;Aktobe, Kazakhstan
+222;AKY;Sittwe Airport;Sittwe, Myanmar
+223;ALA;Almaty International Airport;Almaty, Kazakhstan
+224;ALB;Albany International Airport;Albany, New York, United States
+225;ALC;Alicante–Elche Airport;Alicante, Valencia, Spain
+226;ALD;Alerta Airport;Alerta, Peru
+227;ALE;Alpine–Casparis Municipal Airport (FAA: E38);Alpine, Texas, United States
+228;ALF;Alta Airport;Alta, Norway
+229;ALG;Houari Boumediene Airport;Algiers, Algeria
+230;ALH;Albany Airport;Albany, Western Australia, Australia
+231;ALI;Alice International Airport;Alice, Texas, United States
+232;ALJ;Alexander Bay Airport;Alexander Bay, South Africa
+233;ALK;Asella Airport;Asella, Ethiopia
+234;ALL;Albenga Airport;Albenga, Liguria, Italy
+235;ALM;Alamogordo–White Sands Regional Airport;Alamogordo, New Mexico, United States
+236;ALN;St. Louis Regional Airport;Alton, Illinois, United States
+237;ALO;Waterloo Regional Airport;Waterloo, Iowa, United States
+238;ALP;Aleppo International Airport;Aleppo, Syria
+239;ALQ;Alegrete Airport;Alegrete, Rio Grande do Sul, Brazil
+240;ALR;Alexandra Aerodrome;Alexandra, New Zealand
+241;ALS;San Luis Valley Regional Airport;Alamosa, Colorado, United States
+242;ALT;Alenquer Airport;Alenquer, Pará, Brazil
+243;ALU;Alula Airport;Alula, Somalia
+244;ALW;Walla Walla Regional Airport;Walla Walla, Washington, United States
+245;ALX;Thomas C. Russell Field;Alexander City, Alabama, United States
+246;ALY;El Nouzha Airport;Alexandria, Egypt
+247;ALZ;Alitak Seaplane Base;Lazy Bay, Alaska, United States
+248;AMA;Rick Husband Amarillo International Airport;Amarillo, Texas, United States
+249;AMB;Ambilobe Airport;Ambilobe, Madagascar
+250;AMC;Am Timan Airport;Am Timan, Chad
+251;AMD;Sardar Vallabhbhai Patel International Airport;Ahmedabad, Gujarat, India
+252;AME;Alto Molocue Airport;Alto Molocue, Mozambique
+253;AMF;Ama Airport;Ama, Papua New Guinea
+254;AMG;Amboin Airport;Amboin, Papua New Guinea
+255;AMH;Arba Minch Airport;Arba Minch, Ethiopia
+256;AMI;Selaparang Airport (closed 2011);Mataram, Indonesia
+257;AMJ;Almenara Airport;Almenara, Minas Gerais, Brazil
+258;AMK;Animas Air Park (FAA: 00C);Durango, Colorado, United States
+259;AML;Puerto Armuelles Airport;Puerto Armuelles, Panama
+260;AMM;Queen Alia International Airport;Amman, Jordan
+261;AMN;Gratiot Community Airport;Alma, Michigan, United States
+262;AMO;Mao Airport;Mao, Chad
+263;AMP;Ampanihy Airport;Ampanihy, Madagascar
+264;AMQ;Pattimura Airport;Ambon, Indonesia
+265;AMS;Amsterdam Airport Schiphol;Amsterdam, Netherlands
+266;AMT;Amata Airport;Amata, Northern Territory, Australia
+267;AMU;Amanab Airport;Amanab, Papua New Guinea
+268;AMV;Amderma Airport;Amderma, Nenets Autonomous Okrug, Russia
+269;AMW;Ames Municipal Airport;Ames, Iowa, United States
+270;AMX;Ammaroo Airport;Ammaroo, Northern Territory, Australia
+271;AMY;Ambatomainty Airport;Ambatomainty, Madagascar
+272;AMZ;Ardmore Airport;Ardmore, New Zealand
+273;ANB;Anniston Regional Airport;Anniston, Alabama, United States
+274;ANC;Ted Stevens Anchorage International Airport;Anchorage, Alaska, United States
+275;AND;Anderson Regional Airport;Anderson, South Carolina, United States
+276;ANE;Angers – Loire Airport;Angers, Pays de la Loire, France
+277;ANF;Cerro Moreno International Airport;Antofagasta, Chile
+278;ANG;Angoul?me – Cognac International Airport;Angoul?me, Poitou-Charentes, France
+279;ANI;Aniak Airport;Aniak, Alaska, United States
+280;ANJ;Zanaga Airport;Zanaga, Republic of the Congo
+281;ANK;Etimesgut Air Base;Ankara, Turkey
+282;ANL;Andulo Airport;Andulo, Angola
+283;ANM;Antsirabato Airport;Antalaha, Madagascar
+284;ANN;Annette Island Airport;Annette Island, Alaska, United States
+285;ANO;Angoche Airport;Angoche, Mozambique
+286;ANP;Lee Airport;Annapolis, Maryland, United States
+287;ANQ;Tri-State Steuben County Airport;Angola, Indiana, United States
+288;ANR;Antwerp International Airport;Antwerp, Belgium
+289;ANS;Andahuaylas Airport;Andahuaylas, Peru
+290;ANU;V. C. Bird International Airport;Antigua, Antigua and Barbuda
+291;ANV;Anvik Airport;Anvik, Alaska, United States
+292;ANW;Ainsworth Regional Airport;Ainsworth, Nebraska, United States
+293;ANX;And?ya Airport, Andenes;Andenes, Norway
+294;ANY;Anthony Municipal Airport;Anthony, Kansas, United States
+295;ANZ;Angus Downs Airport;Angus Downs, Northern Territory, Australia
+296;AOA;Aroa Airport;Aroa, Papua New Guinea
+297;AOB;Annanberg Airport;Annanberg, Papua New Guinea
+298;AOC;Leipzig–Altenburg Airport;Altenburg, Thuringia, Germany
+299;AOD;Abou-De?a Airport;Abou-De?a, Chad
+300;AOE;Anadolu Airport;Eskiºehir, Turkey
+301;AOG;Anshan Teng'ao Airport;Anshan, Liaoning, China
+302;AOH;Lima Allen County Airport;Lima, Ohio, United States
+303;AOI;Ancona Falconara Airport;Ancona, Marche, Italy
+304;AOJ;Aomori Airport;Aomori, Honshu, Japan
+305;AOK;Karpathos Island National Airport;Karpathos, Greece
+306;AOL;Paso de los Libres Airport;Paso de los Libres, Corrientes, Argentina
+307;AOM;Adam Airport[1];Adam, Oman
+308;AON;Arona Airport;Arona, Papua New Guinea
+309;AOO;Altoona–Blair County Airport;Altoona, Pennsylvania, United States
+310;AOP;Alférez FAP Alfredo Vladimir Sara Bauer Airport;Andoas, Peru
+311;AOR;Sultan Abdul Halim Airport;Alor Setar, Kedah, Malaysia
+312;AOS;Amook Bay Seaplane Base (FAA: AK81);Amook Bay, Alaska, United States
+313;AOT;Aosta Valley Airport;Aosta, Aosta Valley, Italy
+314;AOU;Attapeu Airport;Attapeu, Laos
+315;APA;Centennial Airport;Denver, Colorado, United States
+316;APB;Apolo Airport;Apolo, Bolivia
+317;APC;Napa County Airport;Napa, California, United States
+318;APF;Naples Municipal Airport;Naples, Florida, United States
+319;APG;Phillips Army Airfield;Aberdeen Proving Ground, Maryland, United States
+320;APH;A.P. Hill Army Airfield;Fort A.P. Hill, Virginia, United States
+321;API;Captain Luis F. Gómez Ni?o Air Base;Apiay, Colombia
+322;APK;Apataki Airport;Apataki, Tuamotus, French Polynesia
+323;APL;Nampula Airport;Nampula, Mozambique
+324;APN;Alpena County Regional Airport;Alpena, Michigan, United States
+325;APO;Antonio Roldán Betancourt Airport;Apartadó, Colombia
+326;APP;Asapa Airport;Asapa, Papua New Guinea
+327;APQ;Arapiraca Airport;Arapiraca, Alagoas, Brazil
+328;APR;April River Airport;April River, Papua New Guinea
+329;APS;Anápolis Airport;Anápolis, Goiás, Brazil
+330;APT;Marion County Airport (Brown Field);Jasper, Tennessee, United States
+331;APU;Apucarana Airport;Apucarana, Paraná, Brazil
+332;APV;Apple Valley Airport;Apple Valley, California, United States
+333;APW;Faleolo International Airport;Apia, Upolu Island, Samoa
+334;APX;Arapongas Airport;Arapongas, Paraná, Brazil
+335;APY;Alto Parnaíba Airport;Alto Parnaíba, Maranh?o, Brazil
+336;APZ;Zapala Airport;Zapala, Neuquén, Argentina
+337;AQA;Araraquara Airport;Araraquara, S?o Paulo, Brazil
+338;AQB;Quiché Airport;Quiché, Guatemala
+339;AQG;Anqing Tianzhushan Airport;Anqing, Anhui, China
+340;AQI;Al Qaisumah/Hafr Al Batin Airport;Qaisumah / Hafar Al-Batin, Saudi Arabia
+341;AQJ;King Hussein International Airport;Aqaba, Jordan
+342;AQM;Ariquemes Airport;Ariquemes, Rondônia, Brazil
+343;AQP;Rodríguez Ballón International Airport;Arequipa, Peru
+344;AQS;Saqani Airport;Saqani, Fiji
+345;AQY;Girdwood Airport[1];Girdwood, Alaska, United States
+346;ARA;Acadiana Regional Airport;New Iberia, Louisiana, United States
+347;ARB;Ann Arbor Municipal Airport;Ann Arbor, Michigan, United States
+348;ARC;Arctic Village Airport;Arctic Village, Alaska, United States
+349;ARD;Alor Island Airport;Alor Island, Indonesia
+350;ARE;Antonio (Nery) Juarbe Pol Airport (FAA: ABO);Arecibo, Puerto Rico, United States
+351;ARF;Acaricuara Airport;Acaricuara, Colombia
+352;ARG;Walnut Ridge Regional Airport;Walnut Ridge, Arkansas, United States
+353;ARH;Talagi Airport;Arkhangelsk, Arkhangelsk Oblast, Russia
+354;ARI;Chacalluta International Airport;Arica, Chile
+355;ARJ;Arso Airport;Arso, Indonesia
+356;ARK;Arusha Airport;Arusha, Tanzania
+357;ARL;Arly Airport;Arly, Burkina Faso
+358;ARM;Armidale Airport;Armidale, New South Wales, Australia
+359;ARN;Stockholm Arlanda Airport;Stockholm, Sweden
+360;ARO;Arboletes Airport;Arboletes, Colombia
+361;ARP;Aragip Airport;Aragip, Papua New Guinea
+362;ARQ;El Troncal Airport;Arauquita, Colombia
+363;ARR;Alto Río Senguer Airport;Alto Río Senguer, Chubut, Argentina
+364;ARS;Aragarças Airport;Aragarças, Goiás, Brazil
+365;ART;Watertown International Airport;Watertown, New York, United States
+366;ARU;Araçatuba Airport;Araçatuba, S?o Paulo, Brazil
+367;ARV;Lakeland Airport (Noble F. Lee Memorial Field);Minocqua / Woodruff, Wisconsin, United States
+368;ARW;Arad International Airport;Arad, Romania
+369;ARY;Ararat Airport;Ararat, Victoria, Australia
+370;ARZ;N'zeto Airport;N'zeto, Angola
+371;ASA;Assab International Airport;Assab, Eritrea
+372;ASB;Ashgabat International Airport;Ashgabat, Turkmenistan
+373;ASC;Ascención de Guarayos Airport;Ascención de Guarayos, Bolivia
+374;ASD;Andros Town International Airport;Andros Town, Andros Island, Bahamas
+375;ASE;Aspen–Pitkin County Airport (Sardy Field);Aspen, Colorado, United States
+376;ASF;Narimanovo Airport;Astrakhan, Astrakhan Oblast, Russia
+377;ASG;Ashburton Aerodrome;Ashburton, New Zealand
+378;ASH;Nashua Airport (Boire Field);Nashua, New Hampshire, United States
+379;ASI;RAF Ascension Island (Wideawake Field);Ascension Island, British Overseas Territory
+380;;;of Saint Helena, Ascension and Tristan da Cunha
+381;ASJ;Amami Airport;Amami, Satsunan Islands, Japan
+382;ASK;Yamoussoukro Airport;Yamoussoukro, Côte d'Ivoire
+383;ASL;Harrison County Airport;Marshall, Texas, United States
+384;ASM;Asmara International Airport;Asmara, Eritrea
+385;ASN;Talladega Municipal Airport;Talladega, Alabama, United States
+386;ASO;Asosa Airport;Asosa, Ethiopia
+387;ASP;Alice Springs Airport;Alice Springs, Northern Territory, Australia
+388;ASQ;Austin Airport (FAA: 9U3);Austin, Nevada, United States
+389;ASR;Erkilet International Airport;Kayseri, Turkey
+390;AST;Astoria Regional Airport;Astoria, Oregon, United States
+391;ASU;Silvio Pettirossi International Airport;Asunción, Paraguay
+392;ASV;Amboseli Airport;Amboseli, Kenya
+393;ASW;Aswan International Airport;Aswan, Egypt
+394;ASX;John F. Kennedy Memorial Airport;Ashland, Wisconsin, United States
+395;ASY;Ashley Municipal Airport;Ashley, North Dakota, United States
+396;ASZ;Asirim Airport;Asirim, Papua New Guinea
+397;ATA;Comandante FAP Germán Arias Graziani Airport;Huaraz, Peru
+398;ATB;Atbara Airport;Atbara, Sudan
+399;ATC;Arthur's Town Airport;Arthur's Town, Cat Island, Bahamas
+400;ATD;Uru Harbour Airport;Atoifi, Malaita, Solomon Islands
+401;ATE;Antlers Municipal Airport (FAA: 80F);Antlers, Oklahoma, United States
+402;ATF;Chachoan Airport;Ambato, Ecuador
+403;ATG;PAF Base Minhas;Attock, Pakistan
+404;ATH;Athens International Airport (Eleftherios Venizelos Airport);Athens, Greece
+405;ATI;Artigas International Airport;Artigas, Uruguay
+406;ATJ;Antsirabe Airport;Antsirabe, Madagascar
+407;ATK;Atqasuk Edward Burnell Sr. Memorial Airport;Atqasuk, Alaska, United States
+408;ATL;Hartsfield–Jackson Atlanta International Airport;Atlanta, Georgia, United States
+409;ATM;Altamira Airport;Altamira, Pará, Brazil
+410;ATN;Namatanai Airport;Namatanai, Papua New Guinea
+411;ATO;Ohio University Airport (Snyder Field) (FAA: UNI);Athens / Albany, Ohio, United States
+412;ATP;Aitape Airstrip;Aitape, Papua New Guinea
+413;ATQ;Sri Guru Ram Dass Jee International Airport;Amritsar, Punjab, India
+414;ATR;Atar International Airport;Atar, Mauritania
+415;ATS;Artesia Municipal Airport;Artesia, New Mexico, United States
+416;ATT;Atmautluak Airport (FAA: 4A2);Atmautluak, Alaska, United States
+417;ATU;Casco Cove Coast Guard Station;Attu Island, Alaska, United States
+418;ATV;Ati Airport;Ati, Chad
+419;ATW;Appleton International Airport;Appleton, Wisconsin, United States
+420;ATX;Atbasar Airport;Atbasar, Kazakhstan
+421;ATY;Watertown Regional Airport;Watertown, South Dakota, United States
+422;ATZ;Assiut Airport;Assiut, Egypt
+423;AUA;Queen Beatrix International Airport;Aruba, Kingdom of the Netherlands
+424;AUC;Santiago Pérez Quiroz Airport;Arauca, Colombia
+425;AUD;Augustus Downs Airport;Augustus Downs, Queensland, Australia
+426;AUE;Abu Rudeis Airport;Abu Rudeis, Egypt
+427;AUF;Auxerre – Branches Aerodrome;Auxerre, Burgundy, France
+428;AUG;Augusta State Airport;Augusta, Maine, United States
+429;AUH;Abu Dhabi International Airport;Abu Dhabi, United Arab Emirates
+430;AUI;Aua Island Airport;Aua Island, Papua New Guinea
+431;AUJ;Ambunti Airport;Ambunti, Papua New Guinea
+432;AUK;Alakanuk Airport;Alakanuk, Alaska, United States
+433;AUL;Aur Airport;Aur Atoll, Marshall Islands
+434;AUM;Austin Municipal Airport;Austin, Minnesota, United States
+435;AUN;Auburn Municipal Airport;Auburn, California, United States
+436;AUO;Auburn University Regional Airport;Auburn, Alabama, United States
+437;AUP;Agaun Airport;Agaun, Papua New Guinea
+438;AUQ;Atuona Airport;Atuona, Marquesas Islands, French Polynesia
+439;AUR;Aurillac – Tronqui?res Airport;Aurillac, Auvergne, France
+440;AUS;Austin–Bergstrom International Airport;Austin, Texas, United States
+441;AUT;Atauro Airport;Atauro Island, East Timor
+442;AUU;Aurukun Airport;Aurukun, Queensland, Australia
+443;AUV;Aumo Airport;Aumo, Papua New Guinea
+444;AUW;Wausau Downtown Airport;Wausau, Wisconsin, United States
+445;AUX;Araguaína Airport;Araguaína, Tocantins, Brazil
+446;AUY;Anatom Airport;Anatom Island, Tafea, Vanuatu
+447;AUZ;Aurora Municipal Airport (FAA: ARR);Aurora, Illinois, United States
+448;AVA;Anshun Huangguoshu Airport;Anshun, Guizhou, China
+449;AVB;Aviano Air Base;Aviano, Pordenone, Italy
+450;AVG;Auvergne Airport;Auvergne Station, Northern Territory, Australia
+451;AVI;Máximo Gómez Airport;Ciego de Ávila, Cuba
+452;AVK;Arvaikheer Airport;Arvaikheer, Mongolia
+453;AVL;Asheville Regional Airport;Asheville, North Carolina, United States
+454;AVN;Avignon – Provence Airport;Avignon, Provence-Alpes-Côte d'Azur, France
+455;AVO;Avon Park Executive Airport;Avon Park, Florida, United States
+456;AVP;Wilkes-Barre/Scranton International Airport;Wilkes-Barre / Scranton, Pennsylvania, United States
+457;AVU;Avu Avu Airport;Avu Avu, Guadalcanal, Solomon Islands
+458;AVV;Avalon Airport;Avalon, Victoria, Australia
+459;AVW;Marana Regional Airport (FAA: AVQ);Tucson, Arizona, United States
+460;AVX;Catalina Airport;Avalon, California, United States
+461;AWA;Awasa Airport;Awasa, Ethiopia
+462;AWB;Awaba Airport;Awaba, Papua New Guinea
+463;AWD;Aniwa Airport;Aniwa Island, Tafea, Vanuatu
+464;AWE;Alowe Airport;Alowe, Gabon
+465;AWK;Wake Island Airfield;Wake Island, United States Minor Outlying Islands
+466;AWM;West Memphis Municipal Airport;West Memphis, Arkansas, United States
+467;AWN;Alton Downs Airport;Alton Downs, South Australia, Australia
+468;AWP;Austral Downs Airport;Austral Downs, Northern Territory, Australia
+469;AWR;Awar Airport;Awar, Papua New Guinea
+470;AWZ;Ahvaz International Airport;Ahvaz, Iran
+471;AXA;Clayton J. Lloyd International Airport;The Valley, British Overseas Territory of Anguilla
+472;AXB;Maxson Airfield (FAA: 89N);Alexandria Bay, New York, United States
+473;AXC;Aramac Airport;Aramac, Queensland, Australia
+474;AXD;Alexandroupoli Airport (Dimokritos Airport);Alexandroupoli, Greece
+475;AXE;Xanxere Airport;Xanxer?, Santa Catarina, Brazil
+476;AXF;Alxa Left Banner Bayanhot Airport;Alxa Left Banner, Inner Mongolia, China
+477;AXG;Algona Municipal Airport (FAA: AXA);Algona, Iowa, United States
+478;AXJ;Amakusa Airfield[1];Amakusa, Amakusa Islands, Japan
+479;AXK;Ataq Airport;Ataq, Yemen
+480;AXL;Alexandria Airport;Alexandria Station, Northern Territory, Australia
+481;AXM;El Edén International Airport;Armenia, Colombia
+482;AXN;Alexandria Municipal Airport (Chandler Field);Alexandria, Minnesota, United States
+483;AXP;Spring Point Airport;Spring Point, Acklins Island, Bahamas
+484;AXR;Arutua Airport;Arutua, Tuamotus, French Polynesia
+485;AXS;Altus/Quartz Mountain Regional Airport;Altus, Oklahoma, United States
+486;AXT;Akita Airport;Akita, Honshu, Japan
+487;AXU;Axum Airport;Axum, Ethiopia
+488;AXV;Neil Armstrong Airport;Wapakoneta, Ohio, United States
+489;AXX;Angel Fire Airport;Angel Fire, New Mexico, United States
+490;AYA;Ayapel Airport;Ayapel, Colombia
+491;AYC;Ayacucho Airport;Ayacucho, Colombia
+492;AYD;Alroy Downs Airport;Alroy Downs, Northern Territory, Australia
+493;AYG;Yaguara Airport;Yaguara, Colombia
+494;AYI;Yari Airport;Yari, Colombia
+495;AYK;Arkalyk Airport;Arkalyk, Kazakhstan
+496;AYL;Anthony Lagoon Airport;Anthony Lagoon, Northern Territory, Australia
+497;AYM;Yas Island Seaplane Base[1];Yas Island, Abu Dhabi, United Arab Emirates
+498;AYN;Anyang Airport;Anyang, Henan, China
+499;AYO;Juan de Ayolas Airport;Ayolas, Paraguay
+500;AYP;Coronel FAP Alfredo Mendívil Duarte Airport;Ayacucho, Peru
+501;AYQ;Ayers Rock Airport;Yulara, Northern Territory, Australia
+502;AYR;Ayr Airport;Ayr, Queensland, Australia
+503;AYS;Waycross–Ware County Airport;Waycross, Georgia, United States
+504;AYT;Antalya Airport;Antalya, Turkey
+505;AYU;Aiyura Airport;Aiyura, Papua New Guinea
+506;AYW;Ayawasi Airport;Ayawasi, Indonesia
+507;AYY;Arugam Bay Seaplane Base[1];Pottuvil, Sri Lanka
+508;AZA;Phoenix–Mesa Gateway Airport (FAA: IWA);Phoenix, Arizona, United States
+509;AZB;Amazon Bay Airport;Amazon Bay, Papua New Guinea
+510;AZD;Shahid Sadooghi Airport;Yazd, Iran
+511;AZG;Pablo L. Sidar Airport;Apatzingán, Michoacán, Mexico
+512;AZI;Al Bateen Executive Airport;Abu Dhabi, United Arab Emirates
+513;AZL;Fazenda Tucunaré Airport[1];Sapezal, Mato Grosso, Brazil
+514;AZN;Andizhan Airport;Andizhan, Uzbekistan
+515;AZO;Kalamazoo/Battle Creek International Airport;Kalamazoo, Michigan, United States
+516;AZP;Jorge Jiménez Cantú National Airport;Ciudad López Mateos, State of Mexico, Mexico
+517;AZR;Touat-Cheikh Sidi Mohamed Belkebir Airport;Adrar, Algeria
+518;AZS;Samaná El Catey International Airport;El Catey, Dominican Republic
+519;AZT;Zapatoca Airport;Zapatoca, Colombia
+520;AZZ;Ambriz Airport;Ambriz, Angola
